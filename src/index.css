@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: aqua;
 }
 
 code {
@@ -18,10 +19,21 @@ div{
 h1{
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: blue;
+  background-color: blueviolet;
 }
 table,thead,tr,td ,th{
   color: black;
   border-style: groove;
   
 }
-
+button{
+  background-color:blueviolet;
+  color: violet;
+}
+input{
+  background-color: pink;
+  text-align: center;
+  text-decoration: aqua;
+  
+}
